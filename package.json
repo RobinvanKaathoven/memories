@@ -1,0 +1,19 @@
+{
+  "name": "memorysite",
+  "version": "1.0.0",
+  "description": "Application that will keep memories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinvanKaathoven/memories.git"
+  },
+  "author": "Robin van Kaathoven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinvanKaathoven/memories/issues"
+  },
+  "homepage": "https://github.com/RobinvanKaathoven/memories#readme"
+}
