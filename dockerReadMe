@@ -1,0 +1,2 @@
+Building: docker build -t memorysite .
+Running: docker run -p 3000:3000 -it --rm --name nodetest memorysite
